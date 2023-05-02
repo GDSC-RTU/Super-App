@@ -24,5 +24,9 @@ We will try our best to develop some great things in our app.
  - Meme Game
  - Super Mario (Personal Interest 😅)
  
- ## Note 
+ <h3> Want to test our app </h3>
+ 
+ [Be a valuable tester of our app](https://appdistribution.firebase.dev/i/1bf43c83448a61f2)
+ 
+ ## Update
  > ⚠️⚠️ Updates to this app have been paused till 30th of May 
